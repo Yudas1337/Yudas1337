@@ -79,7 +79,7 @@ You can use the website to generate badges: https://shields.io/
 <br>
 <p>
   <img width="46%" align="left" alt="Yudas's github stats" src="https://github-readme-stats.vercel.app/api?username=Yudas1337&hide_border=true&layout=compact&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
- <img width="41%" align="right" alt="Yudas's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudas1337&hide_border=true&layout=compact&amp;hide=java,html&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
+ <img width="41%" align="right" alt="Yudas's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudas1337&hide_border=true&layout=compact&amp;hide=css,html&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
  </p>
  
   
