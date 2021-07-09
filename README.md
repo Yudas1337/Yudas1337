@@ -12,9 +12,6 @@ You can use the website to generate badges: https://shields.io/
  [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Yudas1337/)
 
 
-- 📝[Visit My Resume](https://yudas1337.github.io/Resume/)
-&nbsp;
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="auto" />
   
 **Talking about Personal Stuffs:**
@@ -25,6 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I'm very happy if you want to work together with me 🤝
 - ⚡️ Besides Programming , I loves Music and I'm also a Content Creator in Youtube Platform
 - 🤔 I'm also interested about UI/UX design 
+- 📝[Visit My Resume](https://yudas1337.github.io/Resume/)
 <br><br><br><br><br><br>
 ---
 ## Languages and Tools
