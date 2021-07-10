@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I'm very happy if you want to work together with me 🤝
 - ⚡️ Besides Programming , I loves Music and I'm also a Content Creator in Youtube Platform
 - 🤔 I'm also interested about UI/UX design 
-- 📝[Visit My Resume](https://yudas1337.github.io/Resume/)
+- 📝[Visit My Resume](https://yudas1337.github.io/)
 <br><br><br><br><br><br>
 ---
 ## Languages and Tools
