@@ -71,10 +71,9 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code>
  
 </p>
-<br>
 <p>
-  <img width="46%" align="left" alt="Yudas's github stats" src="https://github-readme-stats.vercel.app/api?username=Yudas1337&hide_border=true&layout=compact&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
- <img width="41%" align="right" alt="Yudas's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudas1337&hide_border=true&layout=compact&amp;hide=css,html&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
+  <img align="left" alt="Yudas's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudas1337&langs_count=10&hide_border=true&layout=compact&amp;hide=css,html&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
+  <img align="right" alt="Yudas's github stats" src="https://github-readme-stats.vercel.app/api?username=Yudas1337&hide_border=true&layout=compact&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
  </p>
  
   
