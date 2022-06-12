@@ -1,4 +1,4 @@
-### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> 
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 I'm Yudas Malabi . I'm From Indonesia . I'm also a Fullstack Web & Mobile Developer. And Learning to become a Cyber Security Expert. I love building applications & discussing new product ideas. Contact me below if you want to work together 😄✌️
 
 <!-- Your badges
