@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Web And Mobile Development :wink:
-- 🌱 I’m currently learning Cloud Computing , Cyber Security and also IoT 
+- 🌱 I’m currently learning Cloud Computing , AI, Cyber Security and also IoT 
 - 💬 Ask me about anything via social media, I am very happy to answer it
 - 👯 I'm very happy if you want to work together with me 🤝
 - ⚡️ Besides Programming , I loves Music and I'm also a Content Creator in Youtube Platform
