@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I'm very happy if you want to work together with me 🤝
 - ⚡️ Besides Programming , I loves Music and I'm also a Content Creator in Youtube Platform
 - 🤔 I'm also interested about UI/UX design 
-- 📝[Visit My Resume](https://yudas-resume.vercel.app)
+- 📝[Visit My Resume](https://yudasmalabi.my.id)
 <br><br><br><br><br><br>
 ---
 ## Languages and Tools
@@ -39,15 +39,18 @@ You can use the website to generate badges: https://shields.io/
   <code><img width = "10%" src = "https://fatkhan.web.id/wp-content/uploads/2016/12/13844228ea43240.png"></code>
   <code><img width = "10%" src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width = "10%" src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width = "10%" src = "https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
